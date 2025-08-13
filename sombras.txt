@@ -1,0 +1,17 @@
+bos-shadow:
+
+1per pramatero: cuanta distancia se corra hacia la derecha o a la izquierda con valores negatios
+
+2do parametro: cuanta distancia recorre hacia abajo
+
+3er prametro: cuanto es el desnefoque o difuminado de la sombra
+
+4to:parametro: cuanto se expande la sombra
+
+5to: color
+
+Segun dalto: EL tercero es el que se suele usar mientras los otros parametros sean 0
+
+Tambien existe text shadow que funciona casi como el box shadow solo que no trae el parametro de difuminado
+
+filter: drop-shadow(1per 2do 3er color): este nos sirve para darle sombra a imagenes con canal alfa. osea que no tienen fondo
