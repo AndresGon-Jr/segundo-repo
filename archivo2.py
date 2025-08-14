@@ -1,5 +1,5 @@
-n1 = int(input("Digite un numero: "))
-n2 = int(input("Digite un numero: "))
+n1 = int(input("Digite un numero entero: "))
+n2 = int(input("Digite un numero entero: "))
 
 resultado = n1 * n2
 
