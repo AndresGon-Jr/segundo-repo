@@ -3,4 +3,4 @@ n2 = int(input("Digite un numero: "))
 
 resultado = n1 * n2
 
-print(f'La multiplicacion da {resultado}')
+print(f'La multiplicacion tiene como resultado = {resultado}')
